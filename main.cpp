@@ -4,6 +4,6 @@
 
 
 int main() {
-
+//ЗОЛУПКА
   return 0;
 }
