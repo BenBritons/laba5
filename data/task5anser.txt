@@ -1,0 +1,5 @@
+4 exists in numbers 
+1000 doesn't exist in numbers 
+7 exists in numbers 
+Minimal value of the numbers -- 2
+2 3 4 5 5 5 7 32 33 34 

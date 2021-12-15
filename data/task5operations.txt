@@ -1,0 +1,7 @@
+is_exist 4
+is_exist 1000
+is_exist 7
+add 33
+add 5
+delete 1
+find_min
